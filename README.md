@@ -53,19 +53,6 @@
 | **Visualizations and icons** | Recharts, Lucide React |
 | **Tooling** | npm / Bun, ESLint, Prettier |
 
-## 🖼️ Screenshots
-
-> Add actual screenshots from your running application to `screenshots/`. The images below are placeholders until screenshots are added.
-
-| Login | Dashboard |
-|:--:|:--:|
-| *Screenshot coming soon* | *Screenshot coming soon* |
-
-| Student Management | Attendance |
-|:--:|:--:|
-| *Screenshot coming soon* | *Screenshot coming soon* |
-
-Suggested image paths: `screenshots/login.png`, `screenshots/dashboard.png`, `screenshots/students.png`, and `screenshots/attendance.png`.
 
 ## 🚀 Getting started
 
